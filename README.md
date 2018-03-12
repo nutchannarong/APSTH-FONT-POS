@@ -1,3 +1,5 @@
-# posagent
+# POS | Order | Stock Manager 2018 V2.0
 
-POS Agent 2018
+API สินค้า + E-Commerce
+
+
